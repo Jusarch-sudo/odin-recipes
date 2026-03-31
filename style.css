@@ -8,10 +8,18 @@
   text-align: center;
 }
 
+p {
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 .container{
   display: flex;
   justify-content: space-between;
 }
+
 .pizza img {
   width: 200px;
   height: auto;
@@ -20,3 +28,18 @@
   border-radius: 50%;
 }
 
+.fried-chicken img{
+  width: auto;
+  height: 190px;
+  margin: 15px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.caramel-cake img {
+  width: 150px;
+  height: auto;
+ 
+  border: 1px solid black;
+  border-radius: 50%;
+}
